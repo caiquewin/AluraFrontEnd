@@ -1,6 +1,7 @@
 
 .principal {
-    background-color: #CCCCCC
+    background-color: #CCCCCC;
+    padding: 30px;
 }
 #banner{ 
      width:100%;
@@ -22,10 +23,20 @@ em strong {
 }
 .beneficios{
     background-color:white;
+    padding: 20px;
 }
 h2{
     text-align: center;
 }
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width:10%;
+    margin-right: 10%;
+}
  .lista{
     font-style: italic;
+}
+.imgbeneficio{
+    width: 65%;
 }

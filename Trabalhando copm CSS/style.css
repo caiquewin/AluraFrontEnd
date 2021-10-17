@@ -1,0 +1,45 @@
+body{
+    background-color: #CCCCCC
+}
+p {
+    text-align: center;   
+}
+/* aqui ele vai procurar todos strong dentro do em */
+em strong{
+    color: red;
+    /*
+    Como representa a cor em Hexadecimal?
+    0 = AUSENSIA DE COR
+
+    F = MAXIMO DE COR
+
+    #000000 = é a cor branca
+
+    #FFFFFF = é a cor preta
+
+    #FF0000= VERMELHO
+
+    #00FF00 = VERFDE
+
+    #0000FF = AZUL
+
+    Como represetar a cor em RGB
+    
+    255 = AUSENSIA DE COR
+
+    0 = MAXIMO DE COR
+
+   RGB(0,0,0) = é a cor branca
+
+    RGB(255,255,255) = é a cor preta
+
+    RGB(255,0,0) = VERMELHO
+
+    RGB(0,255,0) = VERDE
+
+    RGB(0,0,255) = AZUL
+
+    
+    */
+    
+}
